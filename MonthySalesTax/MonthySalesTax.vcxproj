@@ -24,6 +24,7 @@
     <ProjectGuid>{9ac0800e-66bc-4ab3-95e4-12ed76e72f2c}</ProjectGuid>
     <RootNamespace>MonthySalesTax</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>MonthlySalesTax</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
